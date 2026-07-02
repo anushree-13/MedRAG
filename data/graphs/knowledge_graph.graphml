@@ -1,0 +1,978 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="source_chunk" attr.type="string" />
+  <key id="d1" for="edge" attr.name="label" attr.type="string" />
+  <key id="d0" for="node" attr.name="node_type" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="DL">
+      <data key="d0">Method</data>
+    </node>
+    <node id="OCCC">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="histopathological image analysis">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="classification model">
+      <data key="d0">Paper</data>
+    </node>
+    <node id="transfer learning and deep ensemble learning">
+      <data key="d0">Method</data>
+    </node>
+    <node id="ensemble learning">
+      <data key="d0">Method</data>
+    </node>
+    <node id="DL approach">
+      <data key="d0">Method</data>
+    </node>
+    <node id="accuracy and generalization capabilities">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="II part">
+      <data key="d0">Paper</data>
+    </node>
+    <node id="related works">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="III part">
+      <data key="d0">Paper</data>
+    </node>
+    <node id="research gap and key contributions of this research">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="IV part">
+      <data key="d0">Paper</data>
+    </node>
+    <node id="methods used">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="transfer learning and ensemble learning concepts">
+      <data key="d0">Method</data>
+    </node>
+    <node id="steps of the suggested ensemble approach">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="V part">
+      <data key="d0">Paper</data>
+    </node>
+    <node id="methodology behind each step of the suggested model">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="dataset used, preprocessing and augmentation techniques used, etc">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="VI part">
+      <data key="d0">Paper</data>
+    </node>
+    <node id="experimental study">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="VII part">
+      <data key="d0">Paper</data>
+    </node>
+    <node id="results and discussion">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="VIII part">
+      <data key="d0">Paper</data>
+    </node>
+    <node id="conclusion and future scope">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="Krishnan et al.">
+      <data key="d0">Paper</data>
+    </node>
+    <node id="advanced signal processing techniques">
+      <data key="d0">Method</data>
+    </node>
+    <node id="higher-order spectra and local binary pattern (LBP) features">
+      <data key="d0">Method</data>
+    </node>
+    <node id="histopathological oral images">
+      <data key="d0">Dataset</data>
+    </node>
+    <node id="support vector machine (SVM) classifier">
+      <data key="d0">Method</data>
+    </node>
+    <node id="146 histopathological sample images">
+      <data key="d0">Dataset</data>
+    </node>
+    <node id="Prabhakar and Rajaguru">
+      <data key="d0">Paper</data>
+    </node>
+    <node id="75 oral cancer patients">
+      <data key="d0">Dataset</data>
+    </node>
+    <node id="100% accuracy">
+      <data key="d0">Result</data>
+    </node>
+    <node id="85.19%">
+      <data key="d0">Result</data>
+    </node>
+    <node id="84.21%">
+      <data key="d0">Result</data>
+    </node>
+    <node id="94.1%">
+      <data key="d0">Result</data>
+    </node>
+    <node id="Rahaman et al.">
+      <data key="d0">Paper</data>
+    </node>
+    <node id="histogram and grey-level co-occurrence matrix">
+      <data key="d0">Method</data>
+    </node>
+    <node id="linear support vector machine">
+      <data key="d0">Method</data>
+    </node>
+    <node id="histopathological image of oral cells">
+      <data key="d0">Dataset</data>
+    </node>
+    <node id="different classifiers">
+      <data key="d0">Method</data>
+    </node>
+    <node id="optimal outcomes">
+      <data key="d0">Result</data>
+    </node>
+    <node id="M. Das et al.">
+      <data key="d0">Paper</data>
+    </node>
+    <node id="Ensemble DL Model for OSCC Detection Using Histopathological Image Analysis">
+      <data key="d0">Method</data>
+    </node>
+    <node id="Aubreville et al.">
+      <data key="d0">Paper</data>
+    </node>
+    <node id="DL method">
+      <data key="d0">Method</data>
+    </node>
+    <node id="laser endomicroscopy images of the oral cell">
+      <data key="d0">Dataset</data>
+    </node>
+    <node id="Halicek et al.">
+      <data key="d0">Paper</data>
+    </node>
+    <node id="hyperspectral images">
+      <data key="d0">Method</data>
+    </node>
+    <node id="proflavine dye">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="autofluorescence">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="Bhandary et al.">
+      <data key="d0">Paper</data>
+    </node>
+    <node id="MRI images">
+      <data key="d0">Method</data>
+    </node>
+    <node id="CNN model">
+      <data key="d0">Method</data>
+    </node>
+    <node id="96.5%">
+      <data key="d0">Result</data>
+    </node>
+    <node id="Das et al.">
+      <data key="d0">Paper</data>
+    </node>
+    <node id="CNN approach">
+      <data key="d0">Method</data>
+    </node>
+    <node id="96.88%">
+      <data key="d0">Result</data>
+    </node>
+    <node id="Amin et al.">
+      <data key="d0">Paper</data>
+    </node>
+    <node id="concatenated DL framework">
+      <data key="d0">Method</data>
+    </node>
+    <node id="96.66%">
+      <data key="d0">Result</data>
+    </node>
+    <node id="four types of pre-initialized transfer learning frameworks">
+      <data key="d0">Method</data>
+    </node>
+    <node id="97.5%">
+      <data key="d0">Result</data>
+    </node>
+    <node id="Panigrahi and Swarnkar">
+      <data key="d0">Paper</data>
+    </node>
+    <node id="modified Resnet model">
+      <data key="d0">Method</data>
+    </node>
+    <node id="97.59%">
+      <data key="d0">Result</data>
+    </node>
+    <node id="modified capsule network">
+      <data key="d0">Method</data>
+    </node>
+    <node id="97.35%">
+      <data key="d0">Result</data>
+    </node>
+    <node id="97.82%">
+      <data key="d0">Result</data>
+    </node>
+    <node id="Sukegawa et al.">
+      <data key="d0">Paper</data>
+    </node>
+    <node id="VGG16">
+      <data key="d0">Method</data>
+    </node>
+    <node id="learning rate scheduler">
+      <data key="d0">Method</data>
+    </node>
+    <node id="SAM optimizer">
+      <data key="d0">Method</data>
+    </node>
+    <node id="980 images">
+      <data key="d0">Dataset</data>
+    </node>
+    <node id="5170 new augmented images">
+      <data key="d0">Dataset</data>
+    </node>
+    <node id="6150 images">
+      <data key="d0">Dataset</data>
+    </node>
+    <node id="balanced cancerous and non-cancerous images">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="Table 4">
+      <data key="d0">Paper</data>
+    </node>
+    <node id="details of augmented image-generated information">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="ImageNet data set">
+      <data key="d0">Dataset</data>
+    </node>
+    <node id="each individually selected model">
+      <data key="d0">Method</data>
+    </node>
+    <node id="front layers">
+      <data key="d0">Method</data>
+    </node>
+    <node id="new and fresh trainable layers">
+      <data key="d0">Method</data>
+    </node>
+    <node id="augmented histopathological oral images">
+      <data key="d0">Dataset</data>
+    </node>
+    <node id="chosen CNN">
+      <data key="d0">Method</data>
+    </node>
+    <node id="validation dataset">
+      <data key="d0">Dataset</data>
+    </node>
+    <node id="Precision">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="TP Ratio / (TP Ratio + FP Ratio)">
+      <data key="d0">Equation</data>
+    </node>
+    <node id="how accurately a sample is identified as cancerous, is truly cancerous">
+      <data key="d0">Description</data>
+    </node>
+    <node id="Recall or Sensitivity">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="how many samples are properly identified as cancerous out of all the cancerous samples">
+      <data key="d0">Description</data>
+    </node>
+    <node id="F1-score">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="recall and precision">
+      <data key="d0">Description</data>
+    </node>
+    <node id="2 × Precision × Recall / (Precision + Recall)">
+      <data key="d0">Equation</data>
+    </node>
+    <node id="Accuracy">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="how often the model’s prediction is correct">
+      <data key="d0">Description</data>
+    </node>
+    <node id="(TP Ratio + TN Ratio) / (TP Ratio + FN Ratio + FP Ratio + TN Ratio)">
+      <data key="d0">Equation</data>
+    </node>
+    <node id="Equation 1">
+      <data key="d0">Paper</data>
+    </node>
+    <node id="Equation 2">
+      <data key="d0">Paper</data>
+    </node>
+    <node id="Equation 3">
+      <data key="d0">Paper</data>
+    </node>
+    <node id="Equation 4">
+      <data key="d0">Paper</data>
+    </node>
+    <node id="Inception net">
+      <data key="d0">Method</data>
+    </node>
+    <node id="transfer learning application on the GPU">
+      <data key="d0">Description</data>
+    </node>
+    <node id="Alexnet">
+      <data key="d0">Method</data>
+    </node>
+    <node id="ResNet50">
+      <data key="d0">Method</data>
+    </node>
+    <node id="ResNet101">
+      <data key="d0">Method</data>
+    </node>
+    <node id="InceptionresnetV2">
+      <data key="d0">Method</data>
+    </node>
+    <node id="Xception">
+      <data key="d0">Method</data>
+    </node>
+    <node id="Proposed ensemble model">
+      <data key="d0">Method</data>
+    </node>
+    <node id="Google Colab platform">
+      <data key="d0">Description</data>
+    </node>
+    <node id="DL models">
+      <data key="d0">Method</data>
+    </node>
+    <node id="Keras framework">
+      <data key="d0">Description</data>
+    </node>
+    <node id="TensorFlow framework">
+      <data key="d0">Description</data>
+    </node>
+    <node id="Xception net">
+      <data key="d0">Method</data>
+    </node>
+    <node id="95%">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="Inceptionresnet V2">
+      <data key="d0">Method</data>
+    </node>
+    <node id="93%">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="ensemble model">
+      <data key="d0">Method</data>
+    </node>
+    <node id="99% precision">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="93% recall">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="98% f1 score">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="98% accuracy">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="high precision">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="high accuracy">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="very high precision">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="very high accuracy">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="few false positive errors">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="93% of all actual positive instances">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="Resnet 50">
+      <data key="d0">Method</data>
+    </node>
+    <node id="Fig. 9">
+      <data key="d0">Figure</data>
+    </node>
+    <node id="overfitting">
+      <data key="d0">Problem</data>
+    </node>
+    <node id="20">
+      <data key="d0">Number</data>
+    </node>
+    <node id="0.89">
+      <data key="d0">Number</data>
+    </node>
+    <node id="0.99">
+      <data key="d0">Number</data>
+    </node>
+    <node id="Resnet 101">
+      <data key="d0">Method</data>
+    </node>
+    <node id="Fig. 10">
+      <data key="d0">Figure</data>
+    </node>
+    <node id="other models">
+      <data key="d0">Models</data>
+    </node>
+    <node id="Fig. 11">
+      <data key="d0">Figure</data>
+    </node>
+    <node id="Resnet50 and Resnet101">
+      <data key="d0">Methods</data>
+    </node>
+    <node id="training and validation accuracy">
+      <data key="d0">Accuracy</data>
+    </node>
+    <node id="0.88">
+      <data key="d0">Number</data>
+    </node>
+    <node id="Fig. 12">
+      <data key="d0">Figure</data>
+    </node>
+    <node id="0.92">
+      <data key="d0">Number</data>
+    </node>
+    <node id="3">
+      <data key="d0">Number</data>
+    </node>
+    <node id="Xception network">
+      <data key="d0">Method</data>
+    </node>
+    <node id="Fig. 13">
+      <data key="d0">Figure</data>
+    </node>
+    <node id="0.95">
+      <data key="d0">Number</data>
+    </node>
+    <node id="0.93">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="loss curve">
+      <data key="d0">Method</data>
+    </node>
+    <node id="0.98">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="minimized">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="constant">
+      <data key="d0">Metric</data>
+    </node>
+    <node id="accuracy of the other model available in the literature">
+      <data key="d0">Metric</data>
+    </node>
+    <edge source="DL" target="OCCC">
+      <data key="d1">has been scarcely used</data>
+      <data key="d2">f67afeb41527</data>
+    </edge>
+    <edge source="DL" target="histopathological image analysis">
+      <data key="d1">used</data>
+      <data key="d2">f67afeb41527</data>
+    </edge>
+    <edge source="classification model" target="transfer learning and deep ensemble learning">
+      <data key="d1">based on</data>
+      <data key="d2">f67afeb41527</data>
+    </edge>
+    <edge source="ensemble learning" target="DL approach">
+      <data key="d1">can augment the benefits of</data>
+      <data key="d2">f67afeb41527</data>
+    </edge>
+    <edge source="ensemble learning" target="accuracy and generalization capabilities">
+      <data key="d1">enhancing</data>
+      <data key="d2">f67afeb41527</data>
+    </edge>
+    <edge source="II part" target="related works">
+      <data key="d1">delves into</data>
+      <data key="d2">f67afeb41527</data>
+    </edge>
+    <edge source="III part" target="research gap and key contributions of this research">
+      <data key="d1">discusses</data>
+      <data key="d2">f67afeb41527</data>
+    </edge>
+    <edge source="IV part" target="methods used">
+      <data key="d1">discusses</data>
+      <data key="d2">f67afeb41527</data>
+    </edge>
+    <edge source="IV part" target="transfer learning and ensemble learning concepts">
+      <data key="d1">discusses</data>
+      <data key="d2">f67afeb41527</data>
+    </edge>
+    <edge source="IV part" target="steps of the suggested ensemble approach">
+      <data key="d1">gives</data>
+      <data key="d2">f67afeb41527</data>
+    </edge>
+    <edge source="V part" target="methodology behind each step of the suggested model">
+      <data key="d1">gives</data>
+      <data key="d2">f67afeb41527</data>
+    </edge>
+    <edge source="V part" target="dataset used, preprocessing and augmentation techniques used, etc">
+      <data key="d1">gives</data>
+      <data key="d2">f67afeb41527</data>
+    </edge>
+    <edge source="VI part" target="experimental study">
+      <data key="d1">carries out</data>
+      <data key="d2">f67afeb41527</data>
+    </edge>
+    <edge source="VII part" target="results and discussion">
+      <data key="d1">mentions</data>
+      <data key="d2">f67afeb41527</data>
+    </edge>
+    <edge source="VIII part" target="conclusion and future scope">
+      <data key="d1">gives</data>
+      <data key="d2">f67afeb41527</data>
+    </edge>
+    <edge source="Krishnan et al." target="advanced signal processing techniques">
+      <data key="d1">employed</data>
+      <data key="d2">f67afeb41527</data>
+    </edge>
+    <edge source="Krishnan et al." target="higher-order spectra and local binary pattern (LBP) features">
+      <data key="d1">used</data>
+      <data key="d2">f67afeb41527</data>
+    </edge>
+    <edge source="Krishnan et al." target="histopathological oral images">
+      <data key="d1">extracted</data>
+      <data key="d2">f67afeb41527</data>
+    </edge>
+    <edge source="Krishnan et al." target="support vector machine (SVM) classifier">
+      <data key="d1">provided</data>
+      <data key="d2">f67afeb41527</data>
+    </edge>
+    <edge source="Krishnan et al." target="146 histopathological sample images">
+      <data key="d1">used</data>
+      <data key="d2">f67afeb41527</data>
+    </edge>
+    <edge source="Prabhakar and Rajaguru" target="75 oral cancer patients">
+      <data key="d1">analyzed</data>
+      <data key="d2">b75f2627bc66</data>
+    </edge>
+    <edge source="Prabhakar and Rajaguru" target="100% accuracy">
+      <data key="d1">found out</data>
+      <data key="d2">b75f2627bc66</data>
+    </edge>
+    <edge source="Prabhakar and Rajaguru" target="85.19%">
+      <data key="d1">found out</data>
+      <data key="d2">b75f2627bc66</data>
+    </edge>
+    <edge source="Prabhakar and Rajaguru" target="84.21%">
+      <data key="d1">found out</data>
+      <data key="d2">b75f2627bc66</data>
+    </edge>
+    <edge source="Prabhakar and Rajaguru" target="94.1%">
+      <data key="d1">found out</data>
+      <data key="d2">b75f2627bc66</data>
+    </edge>
+    <edge source="Rahaman et al." target="histogram and grey-level co-occurrence matrix">
+      <data key="d1">used</data>
+      <data key="d2">b75f2627bc66</data>
+    </edge>
+    <edge source="Rahaman et al." target="linear support vector machine">
+      <data key="d1">used</data>
+      <data key="d2">b75f2627bc66</data>
+    </edge>
+    <edge source="Rahaman et al." target="histopathological image of oral cells">
+      <data key="d1">used</data>
+      <data key="d2">b75f2627bc66</data>
+    </edge>
+    <edge source="Rahaman et al." target="different classifiers">
+      <data key="d1">applied</data>
+      <data key="d2">b75f2627bc66</data>
+    </edge>
+    <edge source="Rahaman et al." target="optimal outcomes">
+      <data key="d1">produced</data>
+      <data key="d2">b75f2627bc66</data>
+    </edge>
+    <edge source="M. Das et al." target="Ensemble DL Model for OSCC Detection Using Histopathological Image Analysis">
+      <data key="d1">proposed</data>
+      <data key="d2">b75f2627bc66</data>
+    </edge>
+    <edge source="M. Das et al." target="histopathological image analysis">
+      <data key="d1">used</data>
+      <data key="d2">b75f2627bc66</data>
+    </edge>
+    <edge source="M. Das et al." target="accuracy of the other model available in the literature">
+      <data key="d1">has_accuracy</data>
+      <data key="d2">bbb7370fc8d4</data>
+    </edge>
+    <edge source="Ensemble DL Model for OSCC Detection Using Histopathological Image Analysis" target="980 images">
+      <data key="d1">applied to</data>
+      <data key="d2">ebc9b3ea1f42</data>
+    </edge>
+    <edge source="Aubreville et al." target="DL method">
+      <data key="d1">employed</data>
+      <data key="d2">b75f2627bc66</data>
+    </edge>
+    <edge source="Aubreville et al." target="laser endomicroscopy images of the oral cell">
+      <data key="d1">used</data>
+      <data key="d2">b75f2627bc66</data>
+    </edge>
+    <edge source="Halicek et al." target="hyperspectral images">
+      <data key="d1">concluded</data>
+      <data key="d2">e49a1999f50e</data>
+    </edge>
+    <edge source="Halicek et al." target="proflavine dye">
+      <data key="d1">compared to</data>
+      <data key="d2">e49a1999f50e</data>
+    </edge>
+    <edge source="Halicek et al." target="autofluorescence">
+      <data key="d1">compared to</data>
+      <data key="d2">e49a1999f50e</data>
+    </edge>
+    <edge source="Bhandary et al." target="MRI images">
+      <data key="d1">used</data>
+      <data key="d2">e49a1999f50e</data>
+    </edge>
+    <edge source="Bhandary et al." target="CNN model">
+      <data key="d1">suggested</data>
+      <data key="d2">e49a1999f50e</data>
+    </edge>
+    <edge source="Bhandary et al." target="96.5%">
+      <data key="d1">got</data>
+      <data key="d2">e49a1999f50e</data>
+    </edge>
+    <edge source="Das et al." target="CNN approach">
+      <data key="d1">suggested</data>
+      <data key="d2">e49a1999f50e</data>
+    </edge>
+    <edge source="Das et al." target="96.88%">
+      <data key="d1">got</data>
+      <data key="d2">e49a1999f50e</data>
+    </edge>
+    <edge source="Das et al." target="four types of pre-initialized transfer learning frameworks">
+      <data key="d1">utilized</data>
+      <data key="d2">e49a1999f50e</data>
+    </edge>
+    <edge source="Das et al." target="97.5%">
+      <data key="d1">got</data>
+      <data key="d2">e49a1999f50e</data>
+    </edge>
+    <edge source="Das et al." target="97.82%">
+      <data key="d1">got</data>
+      <data key="d2">e49a1999f50e</data>
+    </edge>
+    <edge source="Amin et al." target="concatenated DL framework">
+      <data key="d1">recommended</data>
+      <data key="d2">e49a1999f50e</data>
+    </edge>
+    <edge source="Amin et al." target="96.66%">
+      <data key="d1">recorded</data>
+      <data key="d2">e49a1999f50e</data>
+    </edge>
+    <edge source="Panigrahi and Swarnkar" target="modified Resnet model">
+      <data key="d1">proposed</data>
+      <data key="d2">e49a1999f50e</data>
+    </edge>
+    <edge source="Panigrahi and Swarnkar" target="97.59%">
+      <data key="d1">achieved</data>
+      <data key="d2">e49a1999f50e</data>
+    </edge>
+    <edge source="Panigrahi and Swarnkar" target="modified capsule network">
+      <data key="d1">proposed</data>
+      <data key="d2">e49a1999f50e</data>
+    </edge>
+    <edge source="Panigrahi and Swarnkar" target="97.35%">
+      <data key="d1">obtained</data>
+      <data key="d2">e49a1999f50e</data>
+    </edge>
+    <edge source="Sukegawa et al." target="VGG16">
+      <data key="d1">uses</data>
+      <data key="d2">e49a1999f50e</data>
+    </edge>
+    <edge source="Sukegawa et al." target="learning rate scheduler">
+      <data key="d1">uses</data>
+      <data key="d2">e49a1999f50e</data>
+    </edge>
+    <edge source="Sukegawa et al." target="SAM optimizer">
+      <data key="d1">uses</data>
+      <data key="d2">e49a1999f50e</data>
+    </edge>
+    <edge source="980 images" target="5170 new augmented images">
+      <data key="d1">generated</data>
+      <data key="d2">ebc9b3ea1f42</data>
+    </edge>
+    <edge source="980 images" target="6150 images">
+      <data key="d1">kept</data>
+      <data key="d2">ebc9b3ea1f42</data>
+    </edge>
+    <edge source="6150 images" target="balanced cancerous and non-cancerous images">
+      <data key="d1">contains</data>
+      <data key="d2">ebc9b3ea1f42</data>
+    </edge>
+    <edge source="Table 4" target="details of augmented image-generated information">
+      <data key="d1">shows</data>
+      <data key="d2">ebc9b3ea1f42</data>
+    </edge>
+    <edge source="ImageNet data set" target="each individually selected model">
+      <data key="d1">applied to</data>
+      <data key="d2">ebc9b3ea1f42</data>
+    </edge>
+    <edge source="each individually selected model" target="front layers">
+      <data key="d1">frozen</data>
+      <data key="d2">ebc9b3ea1f42</data>
+    </edge>
+    <edge source="each individually selected model" target="new and fresh trainable layers">
+      <data key="d1">added</data>
+      <data key="d2">ebc9b3ea1f42</data>
+    </edge>
+    <edge source="new and fresh trainable layers" target="augmented histopathological oral images">
+      <data key="d1">trained using</data>
+      <data key="d2">ebc9b3ea1f42</data>
+    </edge>
+    <edge source="chosen CNN" target="validation dataset">
+      <data key="d1">assessed using</data>
+      <data key="d2">ebc9b3ea1f42</data>
+    </edge>
+    <edge source="Precision" target="TP Ratio / (TP Ratio + FP Ratio)">
+      <data key="d1">is defined as</data>
+      <data key="d2">066576f5ac6a</data>
+    </edge>
+    <edge source="Precision" target="how accurately a sample is identified as cancerous, is truly cancerous">
+      <data key="d1">is used to measure</data>
+      <data key="d2">066576f5ac6a</data>
+    </edge>
+    <edge source="Precision" target="Equation 1">
+      <data key="d1">is related to</data>
+      <data key="d2">066576f5ac6a</data>
+    </edge>
+    <edge source="Recall or Sensitivity" target="how many samples are properly identified as cancerous out of all the cancerous samples">
+      <data key="d1">is used to measure</data>
+      <data key="d2">066576f5ac6a</data>
+    </edge>
+    <edge source="Recall or Sensitivity" target="Equation 2">
+      <data key="d1">is related to</data>
+      <data key="d2">066576f5ac6a</data>
+    </edge>
+    <edge source="F1-score" target="recall and precision">
+      <data key="d1">is used to enhance</data>
+      <data key="d2">066576f5ac6a</data>
+    </edge>
+    <edge source="F1-score" target="2 × Precision × Recall / (Precision + Recall)">
+      <data key="d1">is calculated as</data>
+      <data key="d2">066576f5ac6a</data>
+    </edge>
+    <edge source="F1-score" target="Equation 3">
+      <data key="d1">is related to</data>
+      <data key="d2">066576f5ac6a</data>
+    </edge>
+    <edge source="Accuracy" target="how often the model’s prediction is correct">
+      <data key="d1">is used to measure</data>
+      <data key="d2">066576f5ac6a</data>
+    </edge>
+    <edge source="Accuracy" target="(TP Ratio + TN Ratio) / (TP Ratio + FN Ratio + FP Ratio + TN Ratio)">
+      <data key="d1">is calculated as</data>
+      <data key="d2">066576f5ac6a</data>
+    </edge>
+    <edge source="Accuracy" target="Equation 4">
+      <data key="d1">is related to</data>
+      <data key="d2">066576f5ac6a</data>
+    </edge>
+    <edge source="Inception net" target="transfer learning application on the GPU">
+      <data key="d1">is implemented with</data>
+      <data key="d2">066576f5ac6a</data>
+    </edge>
+    <edge source="Inception net" target="Fig. 12">
+      <data key="d1">has_learning_curve</data>
+      <data key="d2">91f445879d97</data>
+    </edge>
+    <edge source="Inception net" target="0.92">
+      <data key="d1">has_max_testing_accuracy</data>
+      <data key="d2">91f445879d97</data>
+    </edge>
+    <edge source="Inception net" target="0.99">
+      <data key="d1">has_max_training_accuracy</data>
+      <data key="d2">91f445879d97</data>
+    </edge>
+    <edge source="Inception net" target="3">
+      <data key="d1">has_constant_training_and_validation_loss_after_epoch</data>
+      <data key="d2">91f445879d97</data>
+    </edge>
+    <edge source="Alexnet" target="transfer learning application on the GPU">
+      <data key="d1">is implemented with</data>
+      <data key="d2">066576f5ac6a</data>
+    </edge>
+    <edge source="Alexnet" target="Fig. 11">
+      <data key="d1">has_learning_curve</data>
+      <data key="d2">91f445879d97</data>
+    </edge>
+    <edge source="Alexnet" target="Resnet50 and Resnet101">
+      <data key="d1">has_smaller_distance_between_training_and_validation_accuracy</data>
+      <data key="d2">91f445879d97</data>
+    </edge>
+    <edge source="Alexnet" target="training and validation accuracy">
+      <data key="d1">has_minimized_generalization_disparity</data>
+      <data key="d2">91f445879d97</data>
+    </edge>
+    <edge source="Alexnet" target="0.88">
+      <data key="d1">has_max_testing_accuracy</data>
+      <data key="d2">91f445879d97</data>
+    </edge>
+    <edge source="ResNet50" target="transfer learning application on the GPU">
+      <data key="d1">is implemented with</data>
+      <data key="d2">066576f5ac6a</data>
+    </edge>
+    <edge source="ResNet101" target="transfer learning application on the GPU">
+      <data key="d1">is implemented with</data>
+      <data key="d2">066576f5ac6a</data>
+    </edge>
+    <edge source="InceptionresnetV2" target="transfer learning application on the GPU">
+      <data key="d1">is implemented with</data>
+      <data key="d2">066576f5ac6a</data>
+    </edge>
+    <edge source="Xception" target="transfer learning application on the GPU">
+      <data key="d1">is implemented with</data>
+      <data key="d2">066576f5ac6a</data>
+    </edge>
+    <edge source="Proposed ensemble model" target="Google Colab platform">
+      <data key="d1">is implemented on</data>
+      <data key="d2">066576f5ac6a</data>
+    </edge>
+    <edge source="DL models" target="Keras framework">
+      <data key="d1">are implemented using</data>
+      <data key="d2">066576f5ac6a</data>
+    </edge>
+    <edge source="DL models" target="TensorFlow framework">
+      <data key="d1">use</data>
+      <data key="d2">066576f5ac6a</data>
+    </edge>
+    <edge source="Xception net" target="95%">
+      <data key="d1">gives</data>
+      <data key="d2">fda809643f19</data>
+    </edge>
+    <edge source="Xception net" target="ensemble model">
+      <data key="d1">is_base_model</data>
+      <data key="d2">bbb7370fc8d4</data>
+    </edge>
+    <edge source="Xception net" target="0.95">
+      <data key="d1">has_accuracy</data>
+      <data key="d2">bbb7370fc8d4</data>
+    </edge>
+    <edge source="Xception net" target="loss curve">
+      <data key="d1">has_loss_curve</data>
+      <data key="d2">bbb7370fc8d4</data>
+    </edge>
+    <edge source="Inceptionresnet V2" target="93%">
+      <data key="d1">gives</data>
+      <data key="d2">fda809643f19</data>
+    </edge>
+    <edge source="Inceptionresnet V2" target="ensemble model">
+      <data key="d1">is_base_model</data>
+      <data key="d2">bbb7370fc8d4</data>
+    </edge>
+    <edge source="Inceptionresnet V2" target="0.93">
+      <data key="d1">has_accuracy</data>
+      <data key="d2">bbb7370fc8d4</data>
+    </edge>
+    <edge source="Inceptionresnet V2" target="loss curve">
+      <data key="d1">has_loss_curve</data>
+      <data key="d2">bbb7370fc8d4</data>
+    </edge>
+    <edge source="ensemble model" target="99% precision">
+      <data key="d1">has</data>
+      <data key="d2">fda809643f19</data>
+    </edge>
+    <edge source="ensemble model" target="93% recall">
+      <data key="d1">has</data>
+      <data key="d2">fda809643f19</data>
+    </edge>
+    <edge source="ensemble model" target="98% f1 score">
+      <data key="d1">has</data>
+      <data key="d2">fda809643f19</data>
+    </edge>
+    <edge source="ensemble model" target="98% accuracy">
+      <data key="d1">has</data>
+      <data key="d2">fda809643f19</data>
+    </edge>
+    <edge source="ensemble model" target="high precision">
+      <data key="d1">has</data>
+      <data key="d2">fda809643f19</data>
+    </edge>
+    <edge source="ensemble model" target="high accuracy">
+      <data key="d1">has</data>
+      <data key="d2">fda809643f19</data>
+    </edge>
+    <edge source="ensemble model" target="very high precision">
+      <data key="d1">has</data>
+      <data key="d2">fda809643f19</data>
+    </edge>
+    <edge source="ensemble model" target="very high accuracy">
+      <data key="d1">has</data>
+      <data key="d2">fda809643f19</data>
+    </edge>
+    <edge source="ensemble model" target="few false positive errors">
+      <data key="d1">makes</data>
+      <data key="d2">fda809643f19</data>
+    </edge>
+    <edge source="ensemble model" target="93% of all actual positive instances">
+      <data key="d1">correctly identifies</data>
+      <data key="d2">fda809643f19</data>
+    </edge>
+    <edge source="ensemble model" target="0.98">
+      <data key="d1">has_training_accuracy</data>
+      <data key="d2">bbb7370fc8d4</data>
+    </edge>
+    <edge source="ensemble model" target="loss curve">
+      <data key="d1">has_loss_curve</data>
+      <data key="d2">bbb7370fc8d4</data>
+    </edge>
+    <edge source="ensemble model" target="minimized">
+      <data key="d1">has_disparity</data>
+      <data key="d2">bbb7370fc8d4</data>
+    </edge>
+    <edge source="ensemble model" target="constant">
+      <data key="d1">has_training_loss</data>
+      <data key="d2">bbb7370fc8d4</data>
+    </edge>
+    <edge source="Resnet 50" target="Fig. 9">
+      <data key="d1">has_loss_curve</data>
+      <data key="d2">91f445879d97</data>
+    </edge>
+    <edge source="Resnet 50" target="overfitting">
+      <data key="d1">does_not_get</data>
+      <data key="d2">91f445879d97</data>
+    </edge>
+    <edge source="Resnet 50" target="20">
+      <data key="d1">has_constant_loss_after_epoch</data>
+      <data key="d2">91f445879d97</data>
+    </edge>
+    <edge source="Resnet 50" target="0.89">
+      <data key="d1">has_max_validation_accuracy</data>
+      <data key="d2">91f445879d97</data>
+    </edge>
+    <edge source="Resnet 50" target="0.99">
+      <data key="d1">has_max_training_accuracy</data>
+      <data key="d2">91f445879d97</data>
+    </edge>
+    <edge source="Resnet 101" target="Fig. 10">
+      <data key="d1">has_learning_curve</data>
+      <data key="d2">91f445879d97</data>
+    </edge>
+    <edge source="Resnet 101" target="20">
+      <data key="d1">has_constant_accuracy_after_epoch</data>
+      <data key="d2">91f445879d97</data>
+    </edge>
+    <edge source="Resnet 101" target="0.89">
+      <data key="d1">has_max_validation_accuracy</data>
+      <data key="d2">91f445879d97</data>
+    </edge>
+    <edge source="Resnet 101" target="0.99">
+      <data key="d1">has_max_training_accuracy</data>
+      <data key="d2">91f445879d97</data>
+    </edge>
+    <edge source="Resnet 101" target="other models">
+      <data key="d1">has_greater_distance_between_training_and_validation_accuracy</data>
+      <data key="d2">91f445879d97</data>
+    </edge>
+    <edge source="Xception network" target="Fig. 13">
+      <data key="d1">has_learning_curve</data>
+      <data key="d2">91f445879d97</data>
+    </edge>
+    <edge source="Xception network" target="0.95">
+      <data key="d1">has_max_testing_accuracy</data>
+      <data key="d2">91f445879d97</data>
+    </edge>
+  </graph>
+</graphml>
